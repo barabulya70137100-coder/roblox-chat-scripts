@@ -143,3 +143,4 @@ return {
     loadChatScripts = loadChatScripts,
     checkURLAvailability = checkURLAvailability
 }
+
